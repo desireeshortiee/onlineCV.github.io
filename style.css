@@ -39,7 +39,7 @@ p {
 }
 
 img {
-    width: 500px; /* Smaller size */
+    width: 300px; /* Smaller size */
     height: auto;
     margin-left: 20px; /* Adds spacing from the edge */
 }
